@@ -31,7 +31,7 @@ These configs are **best-effort and supported by the community (you).** See [con
 [![LuaRocks](https://img.shields.io/luarocks/v/neovim/nvim-lspconfig?logo=lua&color=purple)](https://luarocks.org/modules/neovim/nvim-lspconfig)
 
 * Requires Nvim 0.11.3+.
-    * Support for Nvim 0.10 [will be removed](https://github.com/Unity-Billal-mesloub/nvim-lspconfig/issues/3693). Upgrade Nvim and nvim-lspconfig before reporting an issue.
+    * Support for Nvim 0.10 [will be removed](https://github.com/Unity-Billal-mesloub/nvim-lspconfig/issues). Upgrade Nvim and nvim-lspconfig before reporting an issue.
 * Install nvim-lspconfig using Vim's "packages" feature:
   ```
   git clone https://github.com/Unity-Billal-mesloub/nvim-lspconfig ~/.config/nvim/pack/nvim/start/nvim-lspconfig
